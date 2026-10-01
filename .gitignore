@@ -1,0 +1,21 @@
+# Vivado project/build output
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+webtalk*
+xsim.dir/
+vivado*.backup.*
+
+# OS
+desktop.ini
+Thumbs.db
+.DS_Store
